@@ -1,6 +1,4 @@
-# Music-bot
-
-# youtube tutorial : https://youtu.be/JF6D12OxYNA
+# Music-bot-01
 
 A complete code to download for a music bot. Using a module (discord-player) 🎧
 
@@ -82,3 +80,8 @@ ping, see the bot latency.
 Find all the functions available on the official code [right here](https://github.com/Androz2091/discord-player).
 
 This is used with [discord.js](https://www.npmjs.com/package/discord.js) and [discord-player](https://www.npmjs.com/package/discord-player).
+
+### Need more support?
+[Join my discord](https://discord.gg/SPXV5Y2T9M)
+
+### Want to contribute?
